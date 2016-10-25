@@ -1,0 +1,16 @@
+{
+    "name": "foxbrowser.turan-mahmudov-l",
+    "description": "description of FoxBrowser",
+    "architecture": "@CLICK_ARCH@",
+    "title": "FoxBrowser",
+    "hooks": {
+        "FoxBrowser": {
+            "apparmor": "FoxBrowser/FoxBrowser.apparmor",
+            "desktop":  "FoxBrowser/FoxBrowser.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Turan Mahmudov <turan.mahmudov@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04.6"
+}
+

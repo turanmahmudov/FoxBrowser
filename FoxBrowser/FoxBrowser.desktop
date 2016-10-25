@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=FoxBrowser
+Exec=FoxBrowser
+Icon=FoxBrowser/FoxBrowser.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
