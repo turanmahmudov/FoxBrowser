@@ -11,7 +11,7 @@ MainView {
     Page {
         header: PageHeader {
             id: pageHeader
-            title: i18n.tr("FoxBrowser")
+            title: i18n.tr("Fox Browser")
         }
     }
 }

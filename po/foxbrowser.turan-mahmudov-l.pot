@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-25 13:08+0000\n"
+"POT-Creation-Date: 2016-10-25 17:17+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,6 +18,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: /home/turan/Apps/FoxBrowser/FoxBrowser/Main.qml:14
-#: /home/turan/Apps/build-FoxBrowser-UbuntuSDK_for_desktop_GCC_amd64_ubuntu_sdk_16_04-Debug/FoxBrowser/FoxBrowser.desktop.h:1
-msgid "FoxBrowser"
+#: /home/turan/Apps/build-FoxBrowser-Desktop-Debug/FoxBrowser/FoxBrowser.desktop.h:1
+msgid "Fox Browser"
 msgstr ""

@@ -1,16 +1,15 @@
 {
     "name": "foxbrowser.turan-mahmudov-l",
-    "description": "description of FoxBrowser",
+    "description": "Gecko based web browser for Ubuntu",
     "architecture": "@CLICK_ARCH@",
-    "title": "FoxBrowser",
+    "title": "Fox Browser",
     "hooks": {
         "FoxBrowser": {
             "apparmor": "FoxBrowser/FoxBrowser.apparmor",
-            "desktop":  "FoxBrowser/FoxBrowser.desktop"
+            "desktop": "FoxBrowser/FoxBrowser.desktop"
         }
     },
-    "version": "0.1",
+    "version": "0.0.1",
     "maintainer": "Turan Mahmudov <turan.mahmudov@gmail.com>",
-    "framework" : "ubuntu-sdk-15.04.6"
+    "framework": "ubuntu-sdk-15.04.6"
 }
-
